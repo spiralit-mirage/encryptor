@@ -1,3 +1,4 @@
+Email spiralit@relayinformatizzando.com to buy various kind of ESXi encryption tools. (including vmdk, vmem, vmx ...)
 # Ransomware Threats Targeting ESXi Hosts – Educational Overview
 
 This document aims to provide a detailed overview of the current landscape of ransomware attacks targeting VMware ESXi hypervisors. It is intended for IT professionals, security researchers, and system administrators to understand the risks, attack methods, and best practices for protecting virtualized environments.
